@@ -50,5 +50,5 @@ public class StudentArray {
 //        System.out.println("Student 4: " + s4.getName());
 //        System.out.println("Student 5: " + s5.getName());
     
-}
+    }
 }
