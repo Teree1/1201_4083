@@ -9,6 +9,7 @@ import java.util.Scanner;
 
 /**
  * u wot
+ * knob
  * @author Teree
  */
 public class StudentArray {
