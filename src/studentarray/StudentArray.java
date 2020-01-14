@@ -8,7 +8,7 @@ package studentarray;
 import java.util.Scanner;
 
 /**
- * soz m8
+ * knob
  * @author Teree
  */
 public class StudentArray {
